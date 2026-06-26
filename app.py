@@ -108,7 +108,7 @@ if not has_key:
         <div style="font-size:4rem;">🐧</div>
         <h1>Linux 课助教</h1>
         <p>为 Linux 课程老师打造的 AI 教学助手</p>
-        <p>👈 请在左侧填入 DeepSeek API Key</p>
+        <p>👈 请在左侧填入API Key</p>
     </div>
     """, unsafe_allow_html=True)
     st.stop()
